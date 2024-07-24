@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1nFw3DWi2DPMUpocLZ5QX76xGK9xnm4DL
+  /:     
+    url: https://author-p15404-e146221-cmstg.adobeaemcloud.com/content/wknd-poc
+    type: markup
+    suffix: ".franklin.html?wcmmode=disabled"
